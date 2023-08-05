@@ -1,8 +1,7 @@
-### Hi there 👋
+## Hi! This is Raymond He
+### A personal blog is building...
 
-
-![Metrics](https://metrics.lecoq.io/SuikaEd?template=classic&base.community=0&base.repositories=0&16personalities=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&16personalities=false&16personalities.url=https%3A%2F%2Fwww.16personalities.com%2Fprofiles%2Fab02bb1658a88&16personalities.sections=INFP-T&16personalities.scores=true&config.timezone=Asia%2FShanghai&config.octicon=true)
-
+![Metrics](https://metrics.lecoq.io/SuikaEd?template=classic&base.community=0&base.repositories=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai&config.octicon=true)
 <!--
 **SuikaEd/SuikaEd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
