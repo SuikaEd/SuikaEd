@@ -1,6 +1,6 @@
 ## Hi! This is Raymond He  
-A personal blog is building... :)  
-There is nothing now but great oaks from little acorns grow...  
+#### A personal blog is building... :)  
+#### There is nothing now but great oaks from little acorns grow...  
 -------
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-4A00E0)
 ![Static Badge](https://img.shields.io/badge/Python-4A00E0)
