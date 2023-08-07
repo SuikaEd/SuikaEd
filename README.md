@@ -1,7 +1,7 @@
-## Hi! This is Raymond He  
-#### A personal blog is building... :) 
-#### https://suikaed.github.io/
+## Hi, SuikaEd here!  
 #### There is nothing now but great oaks from little acorns grow...  
+[A personal blog is building... :)]((https://suikaed.github.io/))  
+-------
 ![Static Badge](https://img.shields.io/badge/Python-BD1F70)
 ![Static Badge](https://img.shields.io/badge/MATLAB-BD1F70)  
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-4A00E0)
