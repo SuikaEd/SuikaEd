@@ -6,6 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-4A00E0)
 ![Static Badge](https://img.shields.io/badge/C%23-4A00E0)
 ![Static Badge](https://img.shields.io/badge/Java%2FKotlin-4A00E0)
+![Static Badge](https://img.shields.io/badge/HTML-4A00E0)
 ![Static Badge](https://img.shields.io/badge/VHDL-4A00E0)
 ![Static Badge](https://img.shields.io/badge/MATLAB-4A00E0)
 -------
