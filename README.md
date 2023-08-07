@@ -3,7 +3,7 @@
 #### https://suikaed.github.io/
 #### There is nothing now but great oaks from little acorns grow...  
 ![Static Badge](https://img.shields.io/badge/Python-BD1F70)
-![Static Badge](https://img.shields.io/badge/MATLAB-4A00E0)  
+![Static Badge](https://img.shields.io/badge/MATLAB-BD1F70)  
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-4A00E0)
 ![Static Badge](https://img.shields.io/badge/C%23-4A00E0)
 ![Static Badge](https://img.shields.io/badge/Java%2FKotlin-4A00E0)
