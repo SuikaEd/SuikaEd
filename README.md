@@ -42,7 +42,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=FFFFFF)  
 -------
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuikaEd&theme=react-dark&height=600&hide_border=true)](https://github.com/SuikaEd/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuikaEd&theme=react-dark&height=400&hide_border=true)](https://github.com/SuikaEd/github-readme-activity-graph)
 <!--
 **SuikaEd/SuikaEd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
