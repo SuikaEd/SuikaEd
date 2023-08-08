@@ -12,22 +12,26 @@
 ![Static Badge](https://img.shields.io/badge/Java%2FKotlin-7F52FF?logo=kotlin&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/VHDL-E01F27?logo=xilinx&logoColor=FFFFFF)  
+
 ###### Development Platform  
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=FFFFFF)  
+
 ![Static Badge](https://img.shields.io/badge/MATLAB-000000?logo=matrix&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=000000)
 ![Static Badge](https://img.shields.io/badge/KeilStudioCloud-03234B?logo=stmicroelectronics&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/VisualStudio-5C2D91?logo=visualstudio&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/AndroidStudio-3DDC84?logo=androidstudio&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/AndroidStudio-3DDC84?logo=androidstudio&logoColor=FFFFFF)  
+
 ![Static Badge](https://img.shields.io/badge/DreamWeaver-FF61F6?logo=adobedreamweaver&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/LightRoomClassic-31A8FF?logo=adobelightroomclassic&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/AffinityPhoto-7E4DD2?logo=affinityphoto&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/PremierePro-9999FF?logo=adobepremierepro&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=FFFFFF)  
+
 ###### Operating System  
 ![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=FFFFFF)
