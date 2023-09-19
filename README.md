@@ -9,6 +9,7 @@
 -------
 ###### Languages  
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Java%2FKotlin-7F52FF?logo=kotlin&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFFFFF)
