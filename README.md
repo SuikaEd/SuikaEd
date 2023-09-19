@@ -25,6 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/KeilStudioCloud-03234B?logo=stmicroelectronics&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/XCode-147EFB?logo=xcode&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/VisualStudio-5C2D91?logo=visualstudio&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/AndroidStudio-3DDC84?logo=androidstudio&logoColor=FFFFFF)  
 
