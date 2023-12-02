@@ -13,7 +13,8 @@
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Java%2FKotlin-7F52FF?logo=kotlin&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/VHDL-E01F27?logo=xilinx&logoColor=FFFFFF)  
+![Static Badge](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/VHDL-ED1C24?logo=amd&logoColor=FFFFFF)  
 
 ###### Development Platform  
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFFFFF)
