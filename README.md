@@ -44,6 +44,8 @@
 ![Static Badge](https://img.shields.io/badge/ML&AI-EE4C2C?logo=pytorch&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=FFFFFF)  
 -------
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuikaEd&theme=react-dark&height=400&hide_border=true)](https://github.com/SuikaEd/github-readme-activity-graph)
