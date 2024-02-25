@@ -43,6 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Windows10-0078D4?logo=windows10&logoColor=FFFFFF)  
 ###### Learning...  
+![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/ML&AI-EE4C2C?logo=pytorch&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFFFFF)
