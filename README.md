@@ -1,5 +1,5 @@
 ## Hi, SuikaEd here!  
-### Great oaks from little acorns grow...  
+### All those moments will be lost in time, like tears in rain...  
 
 ###### [A personal blog is updating... :)](https://suikaed.github.io/)  
 -------
