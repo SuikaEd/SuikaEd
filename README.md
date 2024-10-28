@@ -12,7 +12,7 @@
 -------
 ###### Languages  
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Java%2FKotlin-7F52FF?logo=kotlin&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFFFFF)
@@ -25,18 +25,16 @@
 ![Static Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=FFFFFF)  
 
-![Static Badge](https://img.shields.io/badge/MATLAB-000000?logo=matrix&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=000000)
-![Static Badge](https://img.shields.io/badge/KeilStudioCloud-03234B?logo=stmicroelectronics&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/IntellijIdea-000000?logo=intellijidea&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/XCode-147EFB?logo=xcode&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/VisualStudio-5C2D91?logo=visualstudio&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/AndroidStudio-3DDC84?logo=androidstudio&logoColor=FFFFFF)  
+![Static Badge](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Webstorm-000000?logo=webstorm&logoColor=FFFFFF)  
 
-![Static Badge](https://img.shields.io/badge/DreamWeaver-FF61F6?logo=adobedreamweaver&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/LightRoomClassic-31A8FF?logo=adobelightroomclassic&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/AffinityPhoto-7E4DD2?logo=affinityphoto&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=000000)
+![Static Badge](https://img.shields.io/badge/AndroidStudio-3DDC84?logo=androidstudio&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/KeilStudio-03234B?logo=stmicroelectronics&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/MATLAB-000000?logo=matrix&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/PremierePro-9999FF?logo=adobepremierepro&logoColor=FFFFFF)  
 
 ###### Operating System  
@@ -44,13 +42,12 @@
 ![Static Badge](https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Windows10-0078D4?logo=windows10&logoColor=FFFFFF)  
 ###### Learning...  
+![Static Badge](https://img.shields.io/badge/UnrealEngine-0E1128?logo=unrealengine&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/ML&AI-EE4C2C?logo=pytorch&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=FFFFFF)  
+![Static Badge](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=FFFFFF)  
+
 -------
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuikaEd&theme=react-dark&height=400&hide_border=true)](https://github.com/SuikaEd/github-readme-activity-graph)
 <!--
