@@ -16,6 +16,7 @@
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Java%2FKotlin-7F52FF?logo=kotlin&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/VHDL-ED1C24?logo=amd&logoColor=FFFFFF)  
 
@@ -44,7 +45,6 @@
 ###### Learning...  
 ![Static Badge](https://img.shields.io/badge/UnrealEngine-0E1128?logo=unrealengine&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=FFFFFF)  
 
