@@ -12,7 +12,7 @@
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuikaEd&layout=compact&theme=bear&hide=scss,shaderlab&count_private=true)](https://github.com/SuikaEd/github-readme-stats)  
 -------
-### Stacks
+### Current Stacks
 ###### Languages  
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=FFFFFF)
