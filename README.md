@@ -12,8 +12,8 @@
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuikaEd&layout=compact&theme=bear&hide=scss,shaderlab&count_private=true)](https://github.com/SuikaEd/github-readme-stats)  
 -------
-### Current Stacks
-###### Languages  
+### Tech Stack
+###### *Languages*  
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=FFFFFF)
@@ -24,7 +24,7 @@
 ![Static Badge](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/VHDL-ED1C24?logo=amd&logoColor=FFFFFF)  
 
-###### Development Platform  
+###### *Development Platform*  
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=FFFFFF)
@@ -42,7 +42,7 @@
 ![Static Badge](https://img.shields.io/badge/MATLAB-000000?logo=matrix&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/PremierePro-9999FF?logo=adobepremierepro&logoColor=FFFFFF)  
 
-###### Operating System  
+###### *Operating System*  
 ![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Windows10-0078D4?logo=windows10&logoColor=FFFFFF)  
