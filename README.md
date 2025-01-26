@@ -1,8 +1,9 @@
 ## Hi, SuikaEd here!  
+
 ### All those moments will be lost in time, like tears in rain...  
 
 ###### [A personal blog is updating... :)](https://suikaed.github.io/)  
--------
+
 <!--
 ![Metrics](https://metrics.lecoq.io/SuikaEd?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)  
 -------
@@ -10,8 +11,13 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuikaEd&count_private=true&theme=bear&count_private=true)](https://github.com/SuikaEd/github-readme-stats)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuikaEd&layout=compact&theme=bear&hide=scss,shaderlab&count_private=true)](https://github.com/SuikaEd/github-readme-stats)  
+
 -------
+
+<div>
+<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuikaEd&layout=compact&theme=bear&hide=scss,shaderlab&count_private=true" />
+</div>
+
 ### Tech Stack
 ###### *Languages*  
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF)
