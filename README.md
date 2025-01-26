@@ -15,7 +15,7 @@
 -------
 
 <div>
-<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuikaEd&layout=compact&theme=bear&hide=scss,shaderlab&count_private=true" />
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuikaEd&layout=compact&theme=bear&hide=scss,shaderlab&count_private=true" />
 </div>
 
 ### Tech Stack
