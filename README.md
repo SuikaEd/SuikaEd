@@ -28,6 +28,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/VHDL-ED1C24?logo=amd&logoColor=FFFFFF)  
 
 ###### *Development Platform*  
