@@ -60,7 +60,7 @@
 ![Static Badge](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=FFFFFF)  
 
 -------
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuikaEd&theme=react-dark&height=400&hide_border=true)](https://github.com/SuikaEd/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuikaEd&theme=tokyo-night&height=400&hide_border=true)](https://github.com/SuikaEd/github-readme-activity-graph)
 <!--
 **SuikaEd/SuikaEd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
