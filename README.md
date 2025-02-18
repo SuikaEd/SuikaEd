@@ -2,6 +2,7 @@
 
 ### All those moments will be lost in time, like tears in rain...  
 
+###### [Resume](https://suikaed.github.io/Resmue/)
 ###### [A personal blog is updating... :)](https://suikaed.github.io/)  
 
 <!--
