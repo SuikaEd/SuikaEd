@@ -20,45 +20,60 @@
 </div>
 
 ### Tech Stack
-###### *Languages*  
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=FFFFFF)  
+
 ![Static Badge](https://img.shields.io/badge/Java%2FKotlin-7F52FF?logo=kotlin&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/PUML-FABD14?logo=uml&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/IntellijIdea-000000?logo=intellijidea&logoColor=FFFFFF)  
+
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/VHDL-ED1C24?logo=amd&logoColor=FFFFFF)  
-
-###### *Development Platform*  
-![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=FFFFFF)  
-
-![Static Badge](https://img.shields.io/badge/IntellijIdea-000000?logo=intellijidea&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Webstorm-000000?logo=webstorm&logoColor=FFFFFF)  
+![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=FFFFFF)  
 
 ![Static Badge](https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=000000)
-![Static Badge](https://img.shields.io/badge/AndroidStudio-3DDC84?logo=androidstudio&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/KeilStudio-03234B?logo=stmicroelectronics&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/MATLAB-000000?logo=matrix&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/PremierePro-9999FF?logo=adobepremierepro&logoColor=FFFFFF)  
+![Static Badge](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=FFFFFF)  
 
-###### *Operating System*  
-![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Windows10-0078D4?logo=windows10&logoColor=FFFFFF)  
-###### Learning...  
-![Static Badge](https://img.shields.io/badge/UnrealEngine-0E1128?logo=unrealengine&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/AndroidStudio-3DDC84?logo=androidstudio&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=FFFFFF)  
+
+![Static Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=FFFFFF)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Webstorm-000000?logo=webstorm&logoColor=FFFFFF)  
+
 ![Static Badge](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=FFFFFF)  
+
+###### *Development Platform*  
+![Static Badge](https://img.shields.io/badge/MacOS-000000?logo=apple&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=FFFFFF)  
+
+
+
+<!--
+![Static Badge](https://img.shields.io/badge/KeilStudio-03234B?logo=stmicroelectronics&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/VHDL-ED1C24?logo=amd&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/PremierePro-9999FF?logo=adobepremierepro&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/MATLAB-000000?logo=matrix&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Gitee-C71D23?logo=gitee&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=FFFFFF)
+-->
+
+
+
+
+
 
 -------
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SuikaEd&theme=tokyo-night&height=400&hide_border=true)](https://github.com/SuikaEd/github-readme-activity-graph)
